@@ -117,7 +117,7 @@ double calculateTotalIncome() {
         }
     }
     return totalIncome;
-}
+}//×¢ÊÍ1 
 
 double calculateTotalExpense() {
     double totalExpense = 0;
